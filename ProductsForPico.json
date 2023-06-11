@@ -8,6 +8,7 @@
         "rating": {
             "rate": 4.7,
             "count": 500,
+                 },
             "Name": "Apple",
             "Type1": "Grany Smit",
             "Type2": "Stark Spur Golden",
@@ -15,5 +16,4 @@
             "Type4": "Fuji",
             "Type5": "Stark Spur Golden",
             "Type6": "local"
-        }
     }
